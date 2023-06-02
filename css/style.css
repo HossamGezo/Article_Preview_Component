@@ -76,7 +76,7 @@ body {
 }
 .article-post__info-body {
   color: var(--secondary-color);
-  color: var(--alt-color);
+  line-height: 1.5;
 }
 @media (max-width: 768px) {
   .article-post__info-head {
@@ -104,7 +104,7 @@ body {
 }
 .article-post__name-date h4 {
   color: var(--main-color);
-  font-size: 13px;
+  font-size: 12px;
 }
 .article-post__name-date span {
   color: var(--secondary-color);
